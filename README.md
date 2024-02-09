@@ -37,6 +37,7 @@ In this section we're going to start off by configuring a Supreme Admin role. Fi
 <br />
 
 <p>
+<img src="https://github.com/bck9marketing/osticket-postinstall-config/assets/159003800/3002a9c4-88f9-4f90-b5dd-a2cc841cb345" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/bck9marketing/osticket-postinstall-config/assets/159003800/de820c07-8e80-4d24-a4d6-a28ab338c8ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
